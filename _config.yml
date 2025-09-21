@@ -43,10 +43,11 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
-  provider: "google-gtag"
+  #provider: "google-gtag"
   google:
-    tracking_id: "G-2KW9MZ2TWS"
-    anonymize_ip: false
+    id: G-2KW9MZ2TWS
+    #tracking_id: "G-2KW9MZ2TWS"
+    #anonymize_ip: false
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
