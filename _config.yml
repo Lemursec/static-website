@@ -75,7 +75,7 @@ pageviews:
 theme_mode: #light
 
 #cdn: "http://localhost:4000"
-cdn: "https://lemursec.github.io"
+cdn: "https://lemursec.com"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/lemursec_logo.png"
