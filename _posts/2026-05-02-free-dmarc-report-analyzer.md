@@ -44,5 +44,5 @@ We prioritize data sovereignty. The analyzer operates entirely within ephemeral 
 Convert your DMARC reports into usable intelligence. The tool requires no registration and carries no cost.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
-  <a class="btn-primary" href="https://dmarc-report-analyzer.lemursec.com/">Launch DMARC Report Threat Analyzer</a>
+  <a class="btn-primary" taget="_blank" href="https://dmarc-report-analyzer.lemursec.com/">Launch DMARC Report Threat Analyzer</a>
 </div>
