@@ -14,7 +14,7 @@ mermaid: true
 
 **Does your team struggle to interpret raw DMARC telemetry?**
 
-Administrators managing email infrastructure often find daily aggregate reports unusable.. DMARC provides the primary defense for protecting your domain against spoofing and phishing, the reports are delivered in raw XML format—often compressed in `.zip` or `.gz` files.
+Administrators managing email infrastructure often find daily aggregate reports unusable. DMARC provides the primary defense for protecting your domain against spoofing and phishing, the reports are delivered in raw XML format—often compressed in `.zip` or `.gz` files.
 
 Manual parsing wastes technical resources and delays incident response.
 
