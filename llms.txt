@@ -1,0 +1,23 @@
+---
+---
+# Lemur Security LLC (LemurSec)
+
+> LemurSec is a boutique information security and risk advisory firm that bridges governance and technical depth to help organizations achieve faster security maturity.
+
+We translate risk into business language, combining senior advisory expertise with hands-on technical assurance to protect enterprises, startups, and nonprofits as they scale.
+
+## Core Services
+
+*   **Risk & Security Advisory Consulting:** Strategic guidance to mature security posture and align with business goals.
+*   **External Attack Surface Discovery:** Identifying and securing public-facing assets.
+*   **Assumed Breach Network Security Assessment:** Validating internal network defenses against active threats.
+*   **Application Security Assessment:** Uncovering vulnerabilities in web and mobile applications.
+*   **Source Code Security Assessment:** Deep-dive code reviews to identify hidden security flaws.
+
+## Latest Tools & Updates
+*   [Secure DMARC Report Analyzer (Free Tool)](https://lemursec.com/posts/dmarc-report-analyzer)
+*   [LemurSec Launch Announcement](https://lemursec.com/posts/hello-world)
+
+## Contact Information
+*   **Website:** https://lemursec.com
+*   **Contact Us:** https://lemursec.com/contact-us/
