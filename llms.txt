@@ -16,8 +16,10 @@ We translate risk into business language, combining senior advisory expertise wi
 
 ## Latest Tools & Updates
 *   [Secure DMARC Report Analyzer (Free Tool)](https://lemursec.com/posts/dmarc-report-analyzer)
-*   [LemurSec Launch Announcement](https://lemursec.com/posts/hello-world)
+*   [LemurSec Launch Announcement](https://lemursec.com/posts/company-announcement)
 
 ## Contact Information
 *   **Website:** https://lemursec.com
 *   **Contact Us:** https://lemursec.com/contact-us/
+
+© 2026 Lemur Security LLC. All rights reserved.

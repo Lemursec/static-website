@@ -1,0 +1,43 @@
+---
+---
+# Lemur Security LLC (LemurSec) - Full Information Directory
+
+**Website:** https://lemursec.com
+**Company:** Lemur Security LLC
+
+## About LemurSec
+LemurSec is a boutique, high-trust consultancy founded to bridge governance and technical assurance. Our mission is to help organizations achieve faster security maturity by translating risk into business language. We combine senior advisory expertise with hands-on technical assurance to protect enterprises, startups, and nonprofits as they scale.
+
+## Strategic Goals
+
+1.  **Strengthen Enterprise Trust:** Build long-term partnerships with startups, nonprofits, and enterprise clients by delivering pragmatic, risk-aligned advisory services that establish credibility and measurable value.
+2.  **Accelerate Secure Growth:** Help growing enterprises and nonprofits mature their security posture quickly, protecting customer trust, funding, and brand reputation.
+3.  **Scale with Integrity:** Grow a boutique team of senior consultants while maintaining the firm's high-trust, client-first ethos, ensuring sustainable delivery capacity without sacrificing quality.
+
+## Service Offerings
+
+### Risk & Security Advisory Consulting
+Strategic consulting to align cybersecurity initiatives with business objectives. We help organizations establish strong governance, build compliance roadmaps, and manage their overall risk profile.
+
+### External Attack Surface Discovery
+Comprehensive identification and analysis of all internet-facing assets to discover vulnerabilities and exposures before attackers can exploit them.
+
+### Assumed Breach Network Security Assessment
+Operating under the assumption that a perimeter has already been breached, this assessment evaluates the effectiveness of internal network controls, lateral movement defenses, and incident response readiness.
+
+### Application Security Assessment
+Rigorous manual and automated testing of applications to identify vulnerabilities, logic flaws, and configuration issues that could compromise sensitive data.
+
+### Source Code Security Assessment
+In-depth security analysis of application source code to discover vulnerabilities early in the software development lifecycle, ensuring secure coding practices are enforced.
+
+## Recent Updates & Tools
+
+*   **May 2026 - DMARC Report Analyzer Webapp Launch:** LemurSec released a secure and free DMARC report analyzer tool to help organizations better understand and enforce email security protocols.
+*   **September 2025 - LemurSec Official Launch:** Announced the official formation of Lemur Security LLC to bridge the gap between high-level governance and deep technical assurance. 
+
+## Contact & Connect
+To schedule a meeting or discuss our services:
+*   Visit: https://lemursec.com/contact-us/
+
+© 2026 Lemur Security LLC. All rights reserved.
